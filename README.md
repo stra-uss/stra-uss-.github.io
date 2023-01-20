@@ -1,2 +1,2 @@
 # stra-uss.github.io
-The Strauss' inex page
+The Strauss' index page
