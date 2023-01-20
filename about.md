@@ -2,8 +2,7 @@
 title: ABOUT PAGE
 layout: template
 filename: about.md
---- 
-
+---
 
 ### The Strauss' index page
 
