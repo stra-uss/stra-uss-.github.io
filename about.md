@@ -10,8 +10,8 @@ filename: about.md
 #### Teste
 
 - Teste
-- [Index](README.md)
-- [Index](https://github.com/stra-uss/stra-uss.github.io/blob/main/README.md)
+- [Index](about.md)
+- [Index](https://github.com/stra-uss/stra-uss.github.io/blob/main/about.md)
   
 - Teste
 This sentence uses `$` delimiters to show math inline:  $\sqrt{2x-1}+(7+x)^2$
